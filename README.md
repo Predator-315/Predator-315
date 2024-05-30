@@ -1,3 +1,5 @@
+![Banner Image](https://raw.githubusercontent.com/Predator-315/Predator-315/main/assets/banner.jpg)
+
 # <p align="center">Hi there👋, I'm ```Soumajit Das```</p>
 ### <p align="center">_- A BCA Student🧑‍🎓 passionate towards solving real-life problems through innovative code solutions💻_</p>
 ---
