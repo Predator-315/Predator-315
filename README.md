@@ -5,7 +5,7 @@
 ---
 
 ## 🙋About Me:
-- 🎓BCA student with a passion for IT.
+- 🎓BCA student with a passion for IT<br>
 - 🧑‍💻Strong command in Java<br>
 - ✅Average knowledge on HTML ,CSS, JS , REACT, C++ & striving to learn more<br>
 - 🌱 Currently learning Full Stack Web Development & DSA with JAVA<br>
